@@ -61,7 +61,7 @@ const Footer: React.FC = () => {
                 <div className="w-10 h-10 rounded-lg bg-slate-800 flex items-center justify-center text-primary flex-shrink-0">
                   <span className="material-icons">location_on</span>
                 </div>
-                <span className="text-sm">123 Innovation Hub, Tech Park, <br/> Bangalore, KA 560001, India</span>
+                <span className="text-sm"> Pipeline Rd, near Ravi Shankar Guruji Ashram, Thathaguni<br/> Bengaluru, Karnataka 560082,India</span>
               </li>
               <li className="flex items-center gap-4">
                 <div className="w-10 h-10 rounded-lg bg-slate-800 flex items-center justify-center text-primary flex-shrink-0">
@@ -84,7 +84,7 @@ const Footer: React.FC = () => {
           <div className="flex gap-8">
             <a href="#" className="hover:text-slate-300">Privacy Policy</a>
             <a href="#" className="hover:text-slate-300">Terms of Service</a>
-            <a href="#" className="hover:text-slate-300">Sitemap</a>
+            <a href="https://www.google.com/maps/@12.8432088,77.5120153,20.42z?entry=ttu&g_ep=EgoyMDI2MDIxMS4wIKXMDSoASAFQAw%3D%3D" className="hover:text-slate-300">Sitemap</a>
           </div>
         </div>
       </div>
