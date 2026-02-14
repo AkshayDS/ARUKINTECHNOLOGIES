@@ -1,0 +1,9 @@
+
+{
+  "name": "Arukien Technologies",
+  "description": "A high-performance educational platform landing page for Arukien Technologies, featuring course listings, digital services, student testimonials, and an AI-powered course advisor.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
