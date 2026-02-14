@@ -9,7 +9,7 @@ const coursesData: Course[] = [
     description: 'Master HTML, CSS, JavaScript and modern frameworks like React and Next.js.',
     category: 'Development',
     icon: 'code',
-    image: 'html.jpg',
+    image: '/html.jpg',
     tag: 'Hot',
     color: 'text-primary',
   },
@@ -19,7 +19,7 @@ const coursesData: Course[] = [
     description: 'Become a full stack developer with MongoDB, Express, React/Angular, and Node.',
     category: 'Full Stack',
     icon: 'layers',
-    image: 'webb.jpg',
+    image: '/webb.jpg',
     color: 'text-accent-teal',
   },
   {
@@ -28,7 +28,7 @@ const coursesData: Course[] = [
     description: 'Dive into Machine Learning, Neural Networks and Python for modern data science.',
     category: 'AI & ML',
     icon: 'psychology',
-    image: 'aiii.jpg',
+    image: '/aiii.jpg',
     color: 'text-blue-500',
   },
   {
@@ -37,7 +37,7 @@ const coursesData: Course[] = [
     description: 'Learn AWS, Azure and DevOps practices for highly scalable infrastructure.',
     category: 'Cloud',
     icon: 'cloud_queue',
-    image: 'ccp.png',
+    image: '/ccp.png',
     color: 'text-accent-orange',
   },
 ];

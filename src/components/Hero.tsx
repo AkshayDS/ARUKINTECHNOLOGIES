@@ -42,7 +42,7 @@ const Hero: React.FC = () => {
           <img 
             alt="Students collaborating on tech projects in a modern lab" 
             className="w-full h-[700px] md:h-[600px] object-cover transform group-hover:scale-100 transition-transform duration-1000" 
-            src="herrr.png"
+            src="/herrr.png"
           />
           <div className="absolute bottom-6 left-6 z-20 text-left">
             <div className="flex items-center gap-2 bg-primary/20 backdrop-blur-md px-3 py-1 rounded-full border border-primary/30 mb-2 w-fit">

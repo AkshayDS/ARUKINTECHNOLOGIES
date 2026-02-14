@@ -10,7 +10,7 @@ const testimonialsData: Testimonial[] = [
     company: 'TechCorp',
     content: "The Full Stack course at Arukien was a game changer. The live projects gave me the confidence to crack my first interview and start my career as a professional dev.",
     rating: 5,
-    avatar: 'pexels-suraj-barai-1121491032-27442252.jpg'
+    avatar: '/pexels-suraj-barai-1121491032-27442252.jpg'
   },
   {
     id: 't2',
@@ -19,7 +19,7 @@ const testimonialsData: Testimonial[] = [
     company: 'CreativeStudio',
     content: "I never thought coding or design could be this accessible. The instructors are incredibly supportive and the project-based learning model is superior to any college course.",
     rating: 4.5,
-    avatar: 'pexels-cineananya-34736762.jpg'
+    avatar: '/pexels-cineananya-34736762.jpg'
   },
   {
     id: 't3',
@@ -28,7 +28,7 @@ const testimonialsData: Testimonial[] = [
     company: 'FinServe',
     content: "Transitioning from a non-tech background was scary, but the step-by-step guidance here made it possible. I'm now working as a junior data analyst.",
     rating: 5,
-    avatar: 'pexels-timmossholder-8837077.jpg'
+    avatar: '/pexels-timmossholder-8837077.jpg'
   },
   {
     id: 't4',
@@ -37,7 +37,7 @@ const testimonialsData: Testimonial[] = [
     company: 'CloudStream',
     content: "Highly recommend for anyone looking to specialize. The AWS modules were deep and covered everything from architecture to real-world security best practices.",
     rating: 5,
-    avatar: 'pexels-italo-melo-881954-2379004.jpg'
+    avatar: '/pexels-italo-melo-881954-2379004.jpg'
   }
 ];
 
